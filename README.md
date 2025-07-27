@@ -18,6 +18,11 @@ Este é um projeto desenvolvido durante o curso de **Análise e Desenvolvimento 
 
 > Você pode abrir o `index.html` direto no navegador para ver a carteirinha sendo renderizada.
 
+📁 Estrutura do projeto
+carteirinha-estudante/
+├── index.html     # Arquivo principal com Vue e layout
+├── style.css      # Estilização da carteirinha e formulário
+└── README.md      # Documentação do projeto
 
 
 
