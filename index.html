@@ -10,8 +10,8 @@
 </head>
 
 <body>
-    <div id="app" v-cloak> //Este div é o contêiner principal da aplicação Vue. O v-cloak impede que os {{ nome }} apareçam antes do Vue carregar.//
-        <div id="wrapper"> // Centraliza o conteúdo na tela.//
+    <div id="app" v-cloak> 
+        <div id="wrapper">
             <h1>XPTO - Carteirinha do Estudante</h1>
 
             <div id="central" v-cloak>
@@ -23,7 +23,7 @@
 
                     <label for="matricula">Matrícula:</label>
                     <input v-model="matricula" type="text" id="matricula" placeholder="Digite sua matrícula" />
-                       //O v-model="nome" e v-model="matricula" criam ligação bidirecional entre os campos de entrada e o Vue.//
+                       <!-- /*O v-model="nome" e v-model="matricula" criam ligação bidirecional entre os campos de entrada e o Vue./ -->
                 </div>
 
                 <div id="previa">
