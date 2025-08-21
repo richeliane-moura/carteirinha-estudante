@@ -15,8 +15,7 @@ Este é um projeto desenvolvido durante o curso de **Análise e Desenvolvimento 
 - Estilização moderna com gradientes e layout responsivo
 
 ## 📷 Prévia
-
-> Você pode abrir o `index.html` direto no navegador para ver a carteirinha sendo renderizada.
+(https://richeliane-moura.github.io/carteirinha-estudante/)
 
 📁 Estrutura do projeto
 carteirinha-estudante/
